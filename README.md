@@ -1,3 +1,3 @@
 # example 
 
-*iuggg
+* fitst 1
